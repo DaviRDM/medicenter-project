@@ -479,4 +479,7 @@ footer .widget_title_text {
         flex-direction: column;
         justify-content: space-around;
     }
+    .mobile {
+        padding-top: 30px;
+    }
 }
